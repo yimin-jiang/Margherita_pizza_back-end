@@ -5,4 +5,5 @@ module.exports = {
   api: {
     prefix: process.env.API_PREFIX || "/api/v1",
   },
+  frontend_api: 'http://monapizza.s3-website-ap-southeast-2.amazonaws.com'
 };
